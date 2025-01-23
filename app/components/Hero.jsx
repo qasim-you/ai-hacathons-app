@@ -7,7 +7,7 @@ export default function Hero() {
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.8 }}
+      transition={{ duration: 0.8 }} 
       className="text-center py-20"
     >
       <h1 className="text-4xl font-bold mb-4 text-gray-800">AI-Powered Education Network</h1>
