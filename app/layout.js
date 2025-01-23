@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "AI-Powered Education Network",
-  description: "Connecting underserved schools to the power of AI and the internet",
+  description: "Connecting underserved schools to the power of AI and the internet", 
 }
 
 export default function RootLayout({ children }) {
