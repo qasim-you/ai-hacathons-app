@@ -1,7 +1,6 @@
 "use client"; // Ensures this component is only rendered on the client side
 
 import { motion } from "framer-motion";
-
 export default function Hero() {
   return (
     <motion.div
